@@ -1,2 +1,1 @@
-# Sarufi
-Sarufi ni muhimu katika lugha 
+This is my first repository on GitHub 
